@@ -1,34 +1,37 @@
 Name	Link	Platform	Scrape_Image
-2 Degrees North	https://2degrees.sg	Shopify	FALSE
-20 grams	https://20gramscoffeeroastery.com/	Shopify	FALSE
-Alchemist	https://alchemist.com.sg/coffee-beans	Squarespace	FALSE
-Asylum Coffeehouse	https://www.asylumcoffeehouse.com	Shopify	FALSE
+2 Degrees North	https://2degrees.sg/collections/coffee-beans	Shopify	FALSE
+20 grams	https://20gramscoffeeroastery.com	Shopify	FALSE
+Alchemist	https://alchemist.global/collections/coffee-beans	Shopify	FALSE
+Asylum Coffeehouse Filter	https://www.asylumcoffeehouse.com/collections/filter-roast	Shopify	FALSE
+Asylum Coffeehouse Espresso	https://www.asylumcoffeehouse.com/collections/espresso-roast	Shopify	FALSE
 Bettr	https://bettr.coffee/collections/coffee-beans	Shopify	TRUE
 Bloom Coffee	https://bloomwithcoffee.com/collections/all	Shopify	TRUE
-Brawn and Brains	https://www.brawnandbrains.sg	Shopify	FALSE
+Brawn and Brains Espresso	https://www.brawnandbrains.sg/collections/espresso	Shopify	FALSE
+Brawn and Brains Filter	https://www.brawnandbrains.sg/collections/filter	Shopify	FALSE
 Cata Coffee	https://catacoffee.com/collections/coffee-beans	Shopify	TRUE
 Cherry Picker	https://www.instagram.com/thecherrypicker_sg/?locale=%25E4%25B8%2593%25E4%25B8%259A%25E5%2581%259A%25E4%25B8%25AA%25E5%2581%2587%25E7%259A%2584%25E5%258C%2597%25E5%25A1%259E%25E6%25B5%25A6%25E8%25B7%25AF%25E6%259AF%2581%25E4%25B9%25A6%25E3%2580%2596%25E5%25A8%2581%25E4%25BF%25A1%252BTG%252F%25E9%25A3%259E%25E6%259C%25BA%253A%2540buth2788%25E3%2580%2597ARV9T&hl=am-et	Instagram	FALSE
 Compound Coffee	https://www.compoundcoffee.com/roasted-beans	Wix	TRUE
-Cumulo Coffee	https://www.cumulocoffee.com	Shopify	FALSE
+Cumulo Coffee	https://www.cumulocoffee.com/collections/coffee-1	Shopify	FALSE
 Doubleshot	https://www.dblshotcoffee.com/Shop	Other	FALSE
 Doubleup Coffee	https://doubleup-coffee.com/collections/coffee-beans	Shopify	TRUE
-Dutch Colony Coffee	https://www.dutchcolony.sg	Shopify	FALSE
+Dutch Colony Coffee	https://www.dutchcolony.sg/collections/coffee-2	Shopify	FALSE
 Flip Coffee Roasters	https://flipcoffeeroasters.com/collections/beans	Shopify	FALSE
 Fluid Collective	https://fluidcollective.co/collections/retail-coffee	Shopify	TRUE
-Glyph Supply Co	https://www.glyphsupply.co/collections/all	Shopify	FALSE
+Glyph Supply Co	https://www.glyphsupply.co/coffee	Squarespace	FALSE
 Homeground Coffee Roasters	https://homegroundcoffeeroasters.com/collections/coffees	Shopify	FALSE
 Kurasu	https://kurasu.kyoto/collections/whole-beans	Shopify	FALSE
 Kyuukei Coffee	https://kyuukeicoffee.com/store/coffee-beans	Squarespace	FALSE
 Luli Roasts	https://luliroasts.com/collections/coffee	Shopify	FALSE
 Maxi Coffee Bar	https://maxicoffeebar.com/shop/coffee	Squarespace	FALSE
-Narrative Coffee Stand	https://narrativecoffeestand.com/	Shopify	FALSE
+Narrative Coffee Stand	https://narrativecoffeestand.com/collections/coffee-beans	Shopify	FALSE
 Nylon Coffee Roasters	https://nylon.coffee/shop	Squarespace	FALSE
-Parallel Coffee Roastes	https://www.parallelcoffeeroasters.com	Squarespace	FALSE
-Parchmen & Co	https://www.parchmen.co	Shopify	FALSE
+Parallel Coffee Roasters Filter	https://www.parallelcoffeeroasters.com/shop/filter-beans	Squarespace	FALSE
+Parallel Coffee Roasters Espresso	https://www.parallelcoffeeroasters.com/shop/espresso-beans	Squarespace	FALSE
+Parchmen & Co	https://www.parchmen.co/collections/roasted-coffee-beans	Shopify	FALSE
 PPP Coffee	https://pppcoffee.com/collections/beans	Shopify	FALSE
-Quarter Life Coffee	https://quarterlifecoffee.com	Shopify	FALSE
+Quarter Life Coffee	https://quarterlifecoffee.com/collections/seasonal-selections	Shopify	FALSE
 Rookies Coffee	https://rookiescoffee.com	Shopify	FALSE
-Round Boy	https://roundboyroasters.com	Shopify	FALSE
+Round Boy	https://roundboyroasters.com/collections/coffee-beans	Shopify	FALSE
 Shake Coffee	https://shake.coffee/collections/pantry	Shopify	FALSE
 Sinister Coffee	https://www.sinistercoffeeroasters.com/filterbeans	Wix	TRUE
 Skill Issue	https://skillissue.coffee	Squarespace	TRUE
@@ -38,4 +41,5 @@ The Community	https://thecommunitycoffee.com/collections/coffee-beans	Shopify	FA
 Tiong Hoe Coffee	https://tionghoe.com/collections/roasted-beans	Shopify	TRUE
 Tobys Estate	https://tobysestate.com.sg/all-product/	Woocommerce	FALSE
 Upside Down Coffee	https://upsidedown.coffee/collections/all-coffee	Shopify	FALSE
+Wasa Coffee	https://wasacoffee.com/	Shopify	FALSE
 Zerah Coffee Roasters	https://zerahcoffeeroasters.com	Shopify	FALSE

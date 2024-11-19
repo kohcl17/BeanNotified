@@ -49,7 +49,7 @@ all_squarespace_products = get_product_details(sqspaceJsonProducts, platform="Sq
 
 all_data = pd.concat([all_shopify_products, all_squarespace_products], axis=0)
 all_data = all_data.reset_index(drop=True)
-
+all_data.description = all_data.description.str.replace("\n", "<br>")
 
 ####################
 ## USER INTERFACE ##
@@ -69,4 +69,4 @@ for i in all_data.index:
         matches_found = pd.concat([matches_found, all_data.iloc[[i]]], axis = 0)
 
 st.subheader("Here are your matches!")
-st.dataframe(matches_found)
+st.markdown(matches_found.to_html(escape=False), unsafe_allow_html=True)
