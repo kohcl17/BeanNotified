@@ -13,20 +13,16 @@ Cherry Picker	https://www.instagram.com/thecherrypicker_sg/?locale=%25E4%25B8%25
 Compound Coffee	https://www.compoundcoffee.com/roasted-beans	Wix	TRUE
 Cumulo Coffee	https://www.cumulocoffee.com/collections/coffee-1	Shopify	FALSE
 Doubleshot	https://www.dblshotcoffee.com/Shop	Other	FALSE
-Doubleup Coffee	https://doubleup-coffee.com/collections/coffee-beans	Shopify	TRUE
 Dutch Colony Coffee	https://www.dutchcolony.sg/collections/coffee-2	Shopify	FALSE
 Flip Coffee Roasters	https://flipcoffeeroasters.com/collections/beans	Shopify	FALSE
 Fluid Collective	https://fluidcollective.co/collections/retail-coffee	Shopify	TRUE
 Glyph Supply Co	https://www.glyphsupply.co/coffee	Squarespace	FALSE
 Homeground Coffee Roasters	https://homegroundcoffeeroasters.com/collections/coffees	Shopify	FALSE
 Kurasu	https://kurasu.kyoto/collections/whole-beans	Shopify	FALSE
-Kyuukei Coffee	https://kyuukeicoffee.com/store/coffee-beans	Squarespace	FALSE
 Luli Roasts	https://luliroasts.com/collections/coffee	Shopify	FALSE
 Maxi Coffee Bar	https://maxicoffeebar.com/shop/coffee	Squarespace	FALSE
 Narrative Coffee Stand	https://narrativecoffeestand.com/collections/coffee-beans	Shopify	FALSE
-Nylon Coffee Roasters	https://nylon.coffee/shop	Squarespace	FALSE
-Parallel Coffee Roasters Filter	https://www.parallelcoffeeroasters.com/shop/filter-beans	Squarespace	FALSE
-Parallel Coffee Roasters Espresso	https://www.parallelcoffeeroasters.com/shop/espresso-beans	Squarespace	FALSE
+Nylon Coffee Roasters	https://nylon.coffee/collections/coffee	Shopify	FALSE
 Parchmen & Co	https://www.parchmen.co/collections/roasted-coffee-beans	Shopify	FALSE
 PPP Coffee	https://pppcoffee.com/collections/beans	Shopify	FALSE
 Quarter Life Coffee	https://quarterlifecoffee.com/collections/seasonal-selections	Shopify	FALSE
