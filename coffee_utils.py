@@ -6,8 +6,9 @@ import streamlit as st
 
 @st.cache_data
 def get_products(url, platform = "Shopify"):
-    req = requests.get(url)
-    req_status = req.status_code
+    try:
+        req = requests.get(url)
+        req_status = req.status_code
 
     if req_status == 200:
         jsonReq = req.json()
