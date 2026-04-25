@@ -9,6 +9,8 @@ def get_products(url, platform = "Shopify"):
     try:
         req = requests.get(url)
         req_status = req.status_code
+    except requests.RequestException:
+        return {}
 
     if req_status == 200:
         jsonReq = req.json()
